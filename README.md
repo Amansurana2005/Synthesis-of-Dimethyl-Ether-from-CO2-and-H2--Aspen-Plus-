@@ -1,4 +1,4 @@
-# Synthesis-of-Dimethyl-Ether-from-CO2-and-H2--Aspen-Plus-
+# Synthesis-of-Dimethyl-Ether-from-CO2-and-H2- Aspen-Plus-
 
 Elaborate Portfolio Description
 Project Title: Dimethyl Ether (DME) Process Synthesis and Optimization
